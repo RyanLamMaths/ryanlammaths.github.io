@@ -1,0 +1,13 @@
+---
+title: Categories
+permalink: /categories/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+{% assign groups = site.categories | sort %}
+{% for group in groups %}
+<h2 id="{{ group[0] | slugify }}">{{ group[0] }}</h2>
+{% for post in group[1] %}{% include archive-single.html %}{% endfor %}
+{% endfor %}

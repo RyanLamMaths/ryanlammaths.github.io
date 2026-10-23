@@ -1,0 +1,518 @@
+[
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/20190718_105829.jpg",
+    "path": "/wp-content/uploads/2021/05/20190718_105829.jpg",
+    "bytes": 485702,
+    "sha256": "21e2dd00eec1b7fcf8988dc864577bf376a68fec55b3d748be24a1fac52d80a7",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/20190802_133706-1.jpg",
+    "path": "/wp-content/uploads/2021/05/20190802_133706-1.jpg",
+    "bytes": 264811,
+    "sha256": "003d222531139ad52a72c34c27222c430a24605cdde68a4dff0c1a0b0f30d594",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/circle-cropped.png",
+    "path": "/wp-content/uploads/2021/05/circle-cropped.png",
+    "bytes": 88123,
+    "sha256": "718f395670f1e04cc60fbc97bddce22098c7ffcf590eb549567e695e66e24621",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/email-signature-banner-2.jpg",
+    "path": "/wp-content/uploads/2021/05/email-signature-banner-2.jpg",
+    "bytes": 53411,
+    "sha256": "9cfe62f2f099284cd26ab317f1fb52591f36c6ec23f2ef4b8cb06676dd69c9ea",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/email-signature-banner.jpg",
+    "path": "/wp-content/uploads/2021/05/email-signature-banner.jpg",
+    "bytes": 46892,
+    "sha256": "41f8f87830c95d8d9e05255428a24421bed147545d33b51f7c0cdb71e422aa36",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/image.png",
+    "path": "/wp-content/uploads/2021/05/image.png",
+    "bytes": 23963,
+    "sha256": "d5906cf9d7e0f04aa61d5efc708802e995c661772509a514bd11e6cabfaec5de",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/untitled-design-1-1140x445-1.jpg",
+    "path": "/wp-content/uploads/2021/05/untitled-design-1-1140x445-1.jpg",
+    "bytes": 68083,
+    "sha256": "a93cbcfc47f01431f104c4d39ad7f2271b5bf11cbaf640ba9a3838c08c52fc78",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/weir-1.jpg",
+    "path": "/wp-content/uploads/2021/05/weir-1.jpg",
+    "bytes": 171980,
+    "sha256": "01e16f1524a5f8f37d91c2e5c6cd0cbe20f2743c6d2c19d494cad22f55672e03",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/05/weir.jpg",
+    "path": "/wp-content/uploads/2021/05/weir.jpg",
+    "bytes": 171980,
+    "sha256": "01e16f1524a5f8f37d91c2e5c6cd0cbe20f2743c6d2c19d494cad22f55672e03",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/08/https___d3f1iyfxxz8i1e.cloudfront.net_courses_course_image_e90e41a6f9cb.webp",
+    "path": "/wp-content/uploads/2021/08/https___d3f1iyfxxz8i1e.cloudfront.net_courses_course_image_e90e41a6f9cb.webp",
+    "bytes": 74455,
+    "sha256": "89b620dd75bbf29e46a6c7a5023c888a7084d747423229daf7db0136a9c221a1",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/09/image-1.png",
+    "path": "/wp-content/uploads/2021/09/image-1.png",
+    "bytes": 59684,
+    "sha256": "852296f3b9f6917802f9266763cddbc36bab8c825600c2f0d574256a698a3272",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/09/responsive-web-design.jpg",
+    "path": "/wp-content/uploads/2021/09/responsive-web-design.jpg",
+    "bytes": 168909,
+    "sha256": "82179a456f184f9f299a0d83768c2934438f8ca23347d8afdf884059043b5f36",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/11/easya.jpg",
+    "path": "/wp-content/uploads/2021/11/easya.jpg",
+    "bytes": 150638,
+    "sha256": "f19f20a3130a7b08f7a2b2abf0e609641062f414e42fd34cdc486bb08d47858a",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/11/image.png",
+    "path": "/wp-content/uploads/2021/11/image.png",
+    "bytes": 374498,
+    "sha256": "d733186cfdc45697e99b0d4b71dc2eb9b66c7b4be50171a0ae1627f9dd6a99b4",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2021/12/easya-presents-1-page-001-1.jpg",
+    "path": "/wp-content/uploads/2021/12/easya-presents-1-page-001-1.jpg",
+    "bytes": 1068902,
+    "sha256": "3e886c660b2264305c40c65c81ae73c89091ef7d389d2fa28735820b9808267e",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/01/0001.jpg",
+    "path": "/wp-content/uploads/2022/01/0001.jpg",
+    "bytes": 1093554,
+    "sha256": "4594baee8231915e7e65ed24729087a9eb73b3d1bf686d6d88a536e6814a04ed",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/01/easya-answer-booklet.pdf",
+    "path": "/wp-content/uploads/2022/01/easya-answer-booklet.pdf",
+    "bytes": 530606,
+    "sha256": "3d5e1cb4f255170c8b337abc4123408ffec54af6439ef7663cddcbd3c0d7306d",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/01/easya_competition_rules-2.pdf",
+    "path": "/wp-content/uploads/2022/01/easya_competition_rules-2.pdf",
+    "bytes": 143200,
+    "sha256": "56f2bddcf70e952d6cc88f1fb02a44041e63e04a19ab879bec6833841b6d30cb",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/01/question_paper.pdf",
+    "path": "/wp-content/uploads/2022/01/question_paper.pdf",
+    "bytes": 994077,
+    "sha256": "f931801ccfec93740d7a77155df17fe589b746c88f65467212c14484de715f20",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/02/easya-suggested-answers.pdf",
+    "path": "/wp-content/uploads/2022/02/easya-suggested-answers.pdf",
+    "bytes": 1382239,
+    "sha256": "44441156d59262c0dfb10b5fa642f8382d2810f1f27e2f2708abd576876261ad",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/02/test.pdf",
+    "path": "/wp-content/uploads/2022/02/test.pdf",
+    "bytes": 221124,
+    "sha256": "ce110a4360ffa8ca9e062bdf88f4e9335907587082f634296fb2c3e20d0536f9",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/12/img-20220328-wa0006.jpg",
+    "path": "/wp-content/uploads/2022/12/img-20220328-wa0006.jpg",
+    "bytes": 166166,
+    "sha256": "1debaaea63d665e07980cbc8a45c20898562ec3cc6df6ce8652c98957f84c10f",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/12/img-20220328-wa0017.jpg",
+    "path": "/wp-content/uploads/2022/12/img-20220328-wa0017.jpg",
+    "bytes": 417530,
+    "sha256": "dd61dbc42bb766759c6e247873aea35a13ebf64112f415552ec41c6abba8c0c8",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/12/img_6258.jpg",
+    "path": "/wp-content/uploads/2022/12/img_6258.jpg",
+    "bytes": 1522729,
+    "sha256": "cd06ed231a8faa01ff7c16fb6855728f999e9204df4ad4763b9031c416eb8aac",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2022/12/img_6578.jpg",
+    "path": "/wp-content/uploads/2022/12/img_6578.jpg",
+    "bytes": 1639742,
+    "sha256": "5ae91f4d19a2a5931c9b06a23ebab0e82fc552cf9409ecdeb32468a8302c7410",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/2023_02_21_presentation-1.pdf",
+    "path": "/wp-content/uploads/2023/02/2023_02_21_presentation-1.pdf",
+    "bytes": 223351,
+    "sha256": "76321662aa2b92a8d1cbdef7b3770370b7a3237d47497af850bc4268d378d01d",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/geometry_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2023/02/geometry_cheat_sheet.pdf",
+    "bytes": 235391,
+    "sha256": "fba20b04aa8ad12ad44ace6c53b95b487afb2ee3db85f35af6d024b622bd26f3",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/mi_proj3.pdf",
+    "path": "/wp-content/uploads/2023/02/mi_proj3.pdf",
+    "bytes": 673132,
+    "sha256": "5761f03be0b453c9799776a662ef287671409de59b41b84295c29646585131ff",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/picardfuchs-1.pdf",
+    "path": "/wp-content/uploads/2023/02/picardfuchs-1.pdf",
+    "bytes": 460049,
+    "sha256": "4fb82f35c816794ef1a6b6c5a9639496e2f9feda79bddc2afd2807ffa17c9807",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/picardfuchs.pdf",
+    "path": "/wp-content/uploads/2023/02/picardfuchs.pdf",
+    "bytes": 291138,
+    "sha256": "aaaa5c637b58ac32b5dcc13ed5298395510084c166ae71bfd0905633b8751785",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/untitled-2-1.pdf",
+    "path": "/wp-content/uploads/2023/02/untitled-2-1.pdf",
+    "bytes": 1033911,
+    "sha256": "565121d09fc2e45146951b44a6f861954157d214fa1b997dfc2f57945f604f08",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/02/untitled-2.pdf",
+    "path": "/wp-content/uploads/2023/02/untitled-2.pdf",
+    "bytes": 168426,
+    "sha256": "c0884cc85357dbfa064a542653cd5b91df0a03915069b0b7b3dc935868cdd7ca",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/04/img_8230.jpg",
+    "path": "/wp-content/uploads/2023/04/img_8230.jpg",
+    "bytes": 4840414,
+    "sha256": "af0356cf0777d80236387a0347e0b8695054f23fca7e5a73fecaa56a646f1a60",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/04/img_8305.jpg",
+    "path": "/wp-content/uploads/2023/04/img_8305.jpg",
+    "bytes": 3162431,
+    "sha256": "97aa691b049351f47f38ca460cc0a63990e7e83b51d82fb9462fe1ed4c16c7f6",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/05/2023_520b_presentation.pdf",
+    "path": "/wp-content/uploads/2023/05/2023_520b_presentation.pdf",
+    "bytes": 631286,
+    "sha256": "beaead51d35a2651426fbb453b1e050d1c7f2468c443e0cd754a503f4e9ed94e",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/05/analysis_a_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2023/05/analysis_a_cheat_sheet.pdf",
+    "bytes": 227934,
+    "sha256": "e80459075c4a58f52c82bbe260e1dc50446cd52848c7fb2e6c341c9478e7d820",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/05/analysis_b_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2023/05/analysis_b_cheat_sheet.pdf",
+    "bytes": 247235,
+    "sha256": "da96855d3f7e4a30a77b1095b3d5229f5c5140f53558c631a94b6712d7cce175",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/05/expository_paper___math_492.pdf",
+    "path": "/wp-content/uploads/2023/05/expository_paper___math_492.pdf",
+    "bytes": 1119980,
+    "sha256": "88fe4a197ac89a7e27c180f41b47634852f75f315ec5f84bbb8ea9acfe5c2d5c",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/05/grad_algebra_a_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2023/05/grad_algebra_a_cheat_sheet.pdf",
+    "bytes": 164946,
+    "sha256": "4e054b747db95bd4f1ad0e733f2e2fa97c69252fe760106108e1e2b4b3b666d2",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/05/grad_algebra_b_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2023/05/grad_algebra_b_cheat_sheet.pdf",
+    "bytes": 206364,
+    "sha256": "52d5225ba4a807cab4ea2b0bd3e5e546443071c838e70ae36b4bf73ac694bfa1",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/09/image.png",
+    "path": "/wp-content/uploads/2023/09/image.png",
+    "bytes": 549658,
+    "sha256": "9ae6b7fb97628c4cc37793a5f58b376b23a55c34f1deb5cf6afec0ce5bea0dc0",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/09/img_0324.jpg",
+    "path": "/wp-content/uploads/2023/09/img_0324.jpg",
+    "bytes": 2233287,
+    "sha256": "2eda473e66fccf9e0ada8a3e41cf7ac420a1e31edbde7f72226403e27c3aec93",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/09/img_8305-edited.jpg",
+    "path": "/wp-content/uploads/2023/09/img_8305-edited.jpg",
+    "bytes": 547813,
+    "sha256": "7a20c4d404e003ee3a0e53d1a24199a3d3be8492c13d9bd26908c05079703080",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/09/img_8576.jpg",
+    "path": "/wp-content/uploads/2023/09/img_8576.jpg",
+    "bytes": 1082970,
+    "sha256": "59e0e9c7f5ecb9dffd5622d704fc53c8dc0f5165dec35a76d856a35ea3ef7efd",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/09/study-abroad-feedback-2022_23.pdf",
+    "path": "/wp-content/uploads/2023/09/study-abroad-feedback-2022_23.pdf",
+    "bytes": 1623823,
+    "sha256": "089e660f981f63558dbc48c371071f8153b20808a68ea246e9474c577d6db8e4",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/10/1697714801759.jpg",
+    "path": "/wp-content/uploads/2023/10/1697714801759.jpg",
+    "bytes": 56546,
+    "sha256": "20745d74f0177b76006df9f6c2ff87feb0c26ebb2b155fca2e062b85ce05d24a",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/11/invariant_regular.pdf",
+    "path": "/wp-content/uploads/2023/11/invariant_regular.pdf",
+    "bytes": 337043,
+    "sha256": "07f2faac0c802cbd5d2f78985c667225ed89f6920ced860be22dce97347d19d4",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/12/1697714801759.jpg",
+    "path": "/wp-content/uploads/2023/12/1697714801759.jpg",
+    "bytes": 56546,
+    "sha256": "20745d74f0177b76006df9f6c2ff87feb0c26ebb2b155fca2e062b85ce05d24a",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/12/2023.11.01-presentation-.pdf",
+    "path": "/wp-content/uploads/2023/12/2023.11.01-presentation-.pdf",
+    "bytes": 7275297,
+    "sha256": "d89b6457624752b4a8b09e04edff8e58fab434b952fb78a3b222d301d038b33d",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/12/image-1.png",
+    "path": "/wp-content/uploads/2023/12/image-1.png",
+    "bytes": 16436,
+    "sha256": "69dda82b2cc2910fbb8b8c8daf44e27c80230ba3fef86e8e320489769c181d71",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/12/image.png",
+    "path": "/wp-content/uploads/2023/12/image.png",
+    "bytes": 16436,
+    "sha256": "69dda82b2cc2910fbb8b8c8daf44e27c80230ba3fef86e8e320489769c181d71",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2023/12/whatsapp-image-2023-10-23-at-13.28.11_84f2064a.jpg",
+    "path": "/wp-content/uploads/2023/12/whatsapp-image-2023-10-23-at-13.28.11_84f2064a.jpg",
+    "bytes": 71339,
+    "sha256": "caaf0c678a36586159db79c61b122f22b8702c85ea995e9e3c275d9bef9fa1a3",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/2024_03_28_presentation.pdf",
+    "path": "/wp-content/uploads/2024/05/2024_03_28_presentation.pdf",
+    "bytes": 430697,
+    "sha256": "027b2c2aae0ce9a2d52993de83da24e47771ba5bdacc798ffdf7c71c3b6173d0",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/algebraic_topology_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2024/05/algebraic_topology_cheat_sheet.pdf",
+    "bytes": 152633,
+    "sha256": "c151e31828ef58e239a998f66590fd45c5819b637609dd47f2d12f52c69d1163",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/cv_ryan_lam.pdf",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/dpp-cf-linkedin-1037.jpg",
+    "path": "/wp-content/uploads/2024/05/dpp-cf-linkedin-1037.jpg",
+    "bytes": 1376434,
+    "sha256": "416ef428c9e1f3c67d0ff49a701c610ad20bbb81004847551a6dfefb8900bbb1",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/galois_theory_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2024/05/galois_theory_cheat_sheet.pdf",
+    "bytes": 169915,
+    "sha256": "72cbe17217598eeaa40117e490fddaf46edafb7c138d5f8464a5d1039a1e444b",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/geom_mathcafe_week6.pdf",
+    "path": "/wp-content/uploads/2024/05/geom_mathcafe_week6.pdf",
+    "bytes": 865915,
+    "sha256": "3da987d8dd942ef9bf6e7a59883c74995fea2caa741ad2f4c66f81b844fd12b9",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/geom_week_12.pdf",
+    "path": "/wp-content/uploads/2024/05/geom_week_12.pdf",
+    "bytes": 1399642,
+    "sha256": "a7965302ee29e5f3930fa628329c6b14150b1890a2e54c2399e934c30b5139ed",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/geometry-week-10.pdf",
+    "path": "/wp-content/uploads/2024/05/geometry-week-10.pdf",
+    "bytes": 2324151,
+    "sha256": "2b57dcf6a4f1fec34189e79fd4779046ee24ffec601a2b4405293830b519eccd",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/geometry_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2024/05/geometry_cheat_sheet.pdf",
+    "bytes": 190670,
+    "sha256": "02dd771d0b27730723657efe61971fb4593d987de84532d5b19ef77d51d1c563",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/grad_algebra_b_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2024/05/grad_algebra_b_cheat_sheet.pdf",
+    "bytes": 206391,
+    "sha256": "c157aee97656019a0f803a50dfba46cd3b568b3b73e8987a41fa8f0c11e0bd24",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/lamr_project_report.pdf",
+    "path": "/wp-content/uploads/2024/05/lamr_project_report.pdf",
+    "bytes": 726942,
+    "sha256": "6d81d538366c0ca280dd5fd786bfd48b7848eb27de4b3d581b84c8587769b564",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/representation_theory_cheat_sheet.pdf",
+    "path": "/wp-content/uploads/2024/05/representation_theory_cheat_sheet.pdf",
+    "bytes": 186499,
+    "sha256": "e850eb39f11b73beadd07fe0ae6b18208d97be341ac8c10d9a4e2dfd17ccf86a",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/05/screenshot-2024-05-25-005626.png",
+    "path": "/wp-content/uploads/2024/05/screenshot-2024-05-25-005626.png",
+    "bytes": 800632,
+    "sha256": "e38fd355688b568a79ad17ef898542cf579c4c642c1aee4a0b2bad0450694388",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/06/image-1.png",
+    "path": "/wp-content/uploads/2024/06/image-1.png",
+    "bytes": 66695,
+    "sha256": "422ce7f2892ee6676679a3326aa6d2e0dabddd64146b8b25f20208c943afb4cc",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/06/image-2.png",
+    "path": "/wp-content/uploads/2024/06/image-2.png",
+    "bytes": 72521,
+    "sha256": "c0aed95777dde40a00cd1b142dd897006ea467beb907f9df70b14c91ea6dd65e",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/06/image.png",
+    "path": "/wp-content/uploads/2024/06/image.png",
+    "bytes": 37653,
+    "sha256": "56d65a291832e8bdcd076fe6768bcdff9cd5d54f6090f889ce1deedfbc0c29e4",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/09/4811828_5064842353178092_rt-v2-1986854388-e1725661273378.jpg",
+    "path": "/wp-content/uploads/2024/09/4811828_5064842353178092_rt-v2-1986854388-e1725661273378.jpg",
+    "bytes": 12339739,
+    "sha256": "d95274e2fd53596b84178f2504b5d1265753ec8ffbf466400879802aa4bad577",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/09/c8e7c016-3d6e-4a83-ab01-2accfdd3a44d.jpg",
+    "path": "/wp-content/uploads/2024/09/c8e7c016-3d6e-4a83-ab01-2accfdd3a44d.jpg",
+    "bytes": 658260,
+    "sha256": "f648cfaab8b2e435b8550abf8fc88a6aa4c5752735af260f8a28807c539b42b6",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/10/2024_10_08_presentation.pdf",
+    "path": "/wp-content/uploads/2024/10/2024_10_08_presentation.pdf",
+    "bytes": 445944,
+    "sha256": "9a57d3f107aea3b2e2061e4acc2563a30365392ef823b79638195d8b10b2650b",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/12/crystal_talk10.pdf",
+    "path": "/wp-content/uploads/2024/12/crystal_talk10.pdf",
+    "bytes": 878397,
+    "sha256": "afbb7206e970f78dde379937f839a41952f4ff724cfeff5b3f1e11fd50ee27c5",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/12/lecture-2.pdf",
+    "path": "/wp-content/uploads/2024/12/lecture-2.pdf",
+    "bytes": 6187934,
+    "sha256": "938d75aeb193b9d070cf77d46d811f434e5dfe22d3819cd866da26906e8ad935",
+    "ok": true
+  },
+  {
+    "source": "https://ryanlamhk.wordpress.com/wp-content/uploads/2024/12/lecture-6.pdf",
+    "path": "/wp-content/uploads/2024/12/lecture-6.pdf",
+    "bytes": 2495359,
+    "sha256": "f23586cd94560d0995059fee3c2fecca47bea508ff2ed81c5ef96e9d951ee9a9",
+    "ok": true
+  }
+]

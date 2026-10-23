@@ -1,0 +1,70 @@
+---
+title: Function that is Continuous but nowhere Differentiable
+permalink: /2021/05/22/function-that-is-continuous-but-nowhere-differentiable/
+layout: single
+author_profile: true
+wordpress_id: 74
+original_url: https://ryanlamhk.wordpress.com/2021/05/22/function-that-is-continuous-but-nowhere-differentiable/
+last_modified_at: '2021-05-22T00:16:43+01:00'
+date: '2021-05-22T00:16:43+01:00'
+excerpt: '<p>This discussion arises from the past paper of one of the unit in the
+  University of Bristol. Specifically, it is question B, year 2015 of MATH10011 Analysis
+  B. Given any function , it is very easy to list example where is continuous at a
+  point but not differentiable there. For instance, at is a very […]</p>
+
+  '
+categories:
+- maths
+- school-work
+tags:
+- Analysis
+- Continuity
+- Series
+comments: false
+share: true
+related: false
+header:
+  teaser: /wp-content/uploads/2021/05/weir-1.jpg
+---
+
+<figure><img src="/wp-content/uploads/2021/05/weir-1.jpg" alt="Function that is Continuous but nowhere Differentiable" loading="lazy"></figure>
+<p>This discussion arises from the past paper of one of the unit in the University of Bristol. Specifically, it is question B, year 2015 of MATH10011 Analysis B.</p>
+<p>Given any function <span class="math-source">\(f: \mathbb R \to \mathbb R\)</span>, it is very easy to list example where <span class="math-source">\(f\)</span> is continuous at a point <span class="math-source">\(x=a\)</span> but not differentiable there. For instance, <span class="math-source">\(f(x) = |x|\)</span> at <span class="math-source">\(x=0\)</span> is a very good example.</p>
+<p>However, we can do even more, here is a function which is no where differentiable: take <span class="math-source">\(f: [0, 2\pi] \to \mathbb R\)</span>:</p>
+<p><span class="math-source">\(\displaystyle f(x) =  \sum_{k = 1}^\infty 2^{-k}\cos\left(3^{-k}x\right)\)</span></p>
+<p>We will try to layout the reason why we can establish this example, including issues of checking whether <span class="math-source">\(f\)</span> is well-defined, including major theorems and some short proofs along the way.</p>
+<h2>Well-definedness</h2>
+<p>Firstly we will lay out some definitions. </p>
+<blockquote><cite><strong>Definition. </strong>Consider a sequence of functions <span class="math-source">\((g_n), g_n : [a, b] \to \mathbb R\)</span>, we would write <br/><span class="math-source">\(\displaystyle f = \sum_{k=1}^\infty g_k\)</span> if, obviously, <span class="math-source">\(\displaystyle f(x) = \sum_{k=1}^\infty g_k(x)\)</span>. That means we would need the series <span class="math-source">\(\sum_{k=1}^\infty g_k(x)\)</span> to converge in every <span class="math-source">\(x \in [a, b]\)</span>.</cite></blockquote>
+<p>Now we would want to should the function indeed exists by checking the above condition. This can be easily done noting that <span class="math-source">\(g_k (x) =  2^{-k}\cos\left(3^{-k}x\right)\)</span>, and</p>
+<p><span class="math-source">\(0 \leq |2^{-k}\cos(3^{-k}x)| \leq 2^{-k}\)</span></p>
+<p>for any integer <span class="math-source">\(k\)</span>, so by geometric series test we have absolute convergence in the series <span class="math-source">\(\sum_{k = 1}^\infty 2^{-k}\cos\left(3^{-k}x\right)\)</span> for any <span class="math-source">\(x\)</span>, hence it is convergent and <span class="math-source">\(f(x)\)</span> is well-defined for any <span class="math-source">\(x\)</span>.</p>
+<h2>Continuity</h2>
+<p>To investigate continuity we need the following definition and results: </p>
+<blockquote><cite><strong>Definition. </strong> A function <span class="math-source">\(f:[a, b] \to \mathbb R, \displaystyle f = \sum_{k=1}^\infty g_k\)</span> is <strong>uniformly convergent </strong>if we consider the sequence of function <span class="math-source">\((f_n)\)</span>, with <span class="math-source">\(\displaystyle f_n(x) = \sum_{k=1}^n g_k(x)\)</span>, and <span class="math-source">\(f_n \to f\)</span> uniformly.</cite></blockquote>
+<blockquote><cite><strong>Theorem (Weierstrass M-test)</strong>. Using the above notation, if for every <span class="math-source">\(k \in \mathbb N\)</span>, there exists <span class="math-source">\(M_k \in \mathbb R\)</span> such that <span class="math-source">\(|g_k(x)| &lt; M_k\)</span> and <span class="math-source">\(\displaystyle\sum_{k=1}^\infty M_k\)</span> exists, then <span class="math-source">\(f\)</span> is uniformly convergent and continuous on <span class="math-source">\([a, b]\)</span>.</cite></blockquote>
+<p>It is now quite routine to check <span class="math-source">\(f\)</span> is indeed continuous, because we only need to check the premise in the M-test. Specifically, as above, we can take <span class="math-source">\(M_k = 2^{-k}\)</span>, and again by geometric series test we are done.</p>
+<h2>Differentiability at x = 0</h2>
+<p>It would be the best (see why later) to investigate the reason behind nowhere differentiability of <span class="math-source">\(f\)</span> by just investigating a single point, and it wouldn’t be better to choose <span class="math-source">\(x = 0\)</span>. Mostly because we know the value of <span class="math-source">\(f(0) =  \displaystyle  \sum_{k = 1}^\infty 2^{-k}\cos 0 = 1\)</span>. </p>
+<p>Now let’s proceed the proof by contradiction, assuming <span class="math-source">\(f'(0)\)</span> actually exists. Of course one would immediately whip out the definition <span class="math-source">\(\displaystyle f'(0) = \lim_{h \to 0}\dfrac{f(h)-f(0)}{h}\)</span>. But there is another way of dealing with this limit:</p>
+<blockquote><cite><strong>Theorem.</strong> If <span class="math-source">\((y_n)\)</span> is a sequence such that <span class="math-source">\(y_n \to 0\)</span>, then the limit <span class="math-source">\(f'(0)\)</span>, if exists, should be equal to <span class="math-source">\(\displaystyle \lim_{m \to \infty}\dfrac{f(y_m)-f(0)}{y_m}\)</span>. </cite></blockquote>
+<p>The proof is easy, just check that the definition collide in this case.</p>
+<p>Now let’s look at <span class="math-source">\(f(y_m)\)</span>, it would be nice if we can get the <span class="math-source">\(\cos(3^{-k}x)\)</span> part vanish, motivated by this, we let <span class="math-source">\(y_m = \left(\dfrac\pi 2\right)3^{-m}\)</span>, now we need to see that</p>
+<p><span class="math-source">\(\displaystyle f(y_m) = \sum_{k=1}^\infty2^{-k}\cos\left(3^{k}y_m\right) =  \sum_{k=1}^m 2^{-k}\cos\left(3^{k-m} \left(\dfrac\pi 2\right) \right) +  \sum_{k=m+1}^\infty 2^{-k}\cos\left(3^{k-m} \left(\dfrac\pi 2\right) \right)\)</span></p>
+<p>The right hand side sum is very nice. This is because <span class="math-source">\(k &gt; m\)</span> so the term inside <span class="math-source">\(\cos\)</span> is always a <em>odd </em>multiple of <span class="math-source">\(\dfrac{\pi}2\)</span>. <strong>Which means it cancels! Yay!</strong> Now we are only left with <span class="math-source">\(\displaystyle  \sum_{k=1}^m 2^{-k}\cos\left(3^{k-m} \left(\dfrac\pi 2\right) \right)\)</span>. Unfortunately we cannot do further simplification, but we can bound this scary thing:</p>
+<p> <span class="math-source">\(\displaystyle  f(y_m) = \sum_{k=1}^m 2^{-k}\cos\left(3^{k-m} \left(\dfrac\pi 2\right) \right) \leq  \sum_{k=1}^m 2^{-k}  = 1-2^{-m}\)</span> </p>
+<p>Now we really want to dig into the derivative, because <span class="math-source">\(f(0) = 1, f(y_m) \leq 1-2^{-m}\)</span>, it would be better if we subtract them. This doesn’t matter since we are investigating <span class="math-source">\(\displaystyle \left|\dfrac{f(y_m)-f(0)}{y_m} \right|\)</span> anyways, so we can switch signs as we like, formally:</p>
+<p><span class="math-source">\(\displaystyle  \left|\dfrac{f(y_m)-f(0)}{y_m} \right| \geq \dfrac{f(0)-f(y_m)}{y_m} \geq \dfrac{1-( 1-2^{-m} )}{y_m}  =  \dfrac{2 \cdot 2^{-m}}{\pi 3^{-m}} = \frac{2}{\pi}\left(\frac32\right)^m\)</span></p>
+<p>So now we have <span class="math-source">\(\displaystyle \lim_{m \to \infty}\dfrac{f(y_m)-f(0)}{y_m} =   \frac{2}{\pi}\left(\frac32\right)^m = +\infty\)</span>, but if <span class="math-source">\(f'(0)\)</span> exists, then the limit should exists as well! We finally reach a contradiction, and conclude</p>
+<blockquote><cite><span class="math-source">\(f(x)\)</span> is not differentiable at <span class="math-source">\(x=0\)</span>.</cite></blockquote>
+<h2>Differentiability at other points…?</h2>
+<p>One might ask is there a way of extending the previous technique into other given points <span class="math-source">\(x=a\)</span>, however, we are face with two difficulty:</p>
+<ol><li>If we consider a sequence <span class="math-source">\(z_m \to a\)</span>, We can’t effectively bound <span class="math-source">\(f(a)-f(z_m)\)</span>.</li><li>With additional term in <span class="math-source">\(z_m\)</span>, taking <span class="math-source">\(m \to \infty\)</span> might not be the result that we like.</li></ol>
+<p>So basically weird things happen in both the numerator and denominator, as a first year student, it is quite unfortunate I have to admit defeat here.  Generally, given real numbers <span class="math-source">\(b &gt; a &gt; 1\)</span> and define <span class="math-source">\(f: \mathbb R \to \mathbb R\)</span></p>
+<p><span class="math-source">\(f(x) = \sum_{k = 1}^\infty a^{-k}\cos\left(b^{-k}x\right)\)</span></p>
+<p>It is understood that this function is always continuous and nowhere differentiable. The proof of continuity is very similar to that I had introduced (<em>and is left as an exercise for the reader.</em>), but the proof of nowhere differentiability, as you can see, is the real deal. Progress had been made, see</p>
+<ul><li><a href="https://math.berkeley.edu/~brent/files/104_weierstrass.pdf">Brent Nelson’s</a> elementary proof for the special case of <span class="math-source">\(b\)</span> odd, and <span class="math-source">\(\dfrac{b}{a} &gt; 1 + \dfrac{3\pi}{2}\)</span>.</li><li><a href="https://arxiv.org/pdf/1610.06354.pdf">Jon Johnsen’s</a> proof of the general case, I think he used a lot of advanced analysis so be prepared.</li></ul>
+<h2>Conclusion</h2>
+<p>Typing this up is probably not the wisest thing to do when you have your exam 2 days later, and you still haven’t finished all the revision planned. But this topic intrigued me a lot, and it is my pleasure to explore this and find the bound of what my “toolbox” can currently do.</p>
+<p>Mathematically, it is also very shocking to see a smooth, uniformly convergent function can end up behaving in such a bad way, it is very counter-intuitive!</p>
+<figure><img alt="Plotting \(f(x)\) and \(f_n(x)\) for \(n=1, 2, 5\) for \(x \in [0, \pi]\) on Desmos." decoding="async" loading="lazy" src="/wp-content/uploads/2021/05/weir.jpg"/><figcaption>Plotting <span class="math-source">\(f(x)\)</span> and <span class="math-source">\(f_n(x)\)</span> for <span class="math-source">\(n=1, 2, 5\)</span> for <span class="math-source">\(x \in [0, \pi]\)</span> on Desmos.</figcaption></figure>

@@ -1,0 +1,58 @@
+---
+title: 'My Masters Project: The Maths'
+permalink: /2024/06/06/my-masters-project-the-maths/
+layout: single
+author_profile: true
+wordpress_id: 546
+original_url: https://ryanlamhk.wordpress.com/2024/06/06/my-masters-project-the-maths/
+last_modified_at: '2024-06-06T15:43:03+01:00'
+date: '2024-06-06T15:41:26+01:00'
+excerpt: '<p>This post and the next (few, maybe) will be me talking about a project
+  that I did this year. </p>
+
+  '
+categories:
+- maths
+- research
+tags:
+- Math
+comments: false
+share: true
+related: false
+header:
+  teaser: /wp-content/uploads/2024/06/image-2.png
+---
+
+<p>This post and the next (few, maybe) will be me talking about a project that I did this year. As I have some experience in studying Hong Kong, the UK,  and the US, it is very hard to give an official name to this “project”.  I mean, it is officially for the “MATHM2200 Project” Unit at the University of Bristol.  But some friends called it the “FYP” (stands for “Final Year Project”), and some called it a “Master’s Thesis” or “Final Thesis” (which is technically not the same thing as I am doing an integrated Masters programme…?), and sometimes I simply called it “The Paper” or “The Project”.  Anyway, all that is for you to know is I care about this enough to mention it on almost any occasion when I am writing it, so I will talk about it here as well.</p>
+<p>This project consists of a report titled “Category Theory and the Injective Generation Condition” and a presentation “Category Theory”. You can find (a draft version of) them in the <a href="/research/">“Research” section</a> on my website. This post will focus on the maths content more, and the next will be more personal.</p>
+<h3>Acknowledgement &amp; Disclaimer</h3>
+<p>A huge thanks to <a href="https://people.maths.bris.ac.uk/~majcr/">Professor Jeremy Rickard</a> for supervising this project, and a lot of people for their support throughout writing this project, or helping me with the work building up to it. I have an incomplete list of people I want to thank in my acknowledgement section of the paper.</p>
+<p>This paper is on Category Theory and Algebras, as much as I want this post to be accessible to a general audience, I recognize that it will be a hard mission to write down adequately, but I will try my best. In other words, undergraduate mathematics students would be most happy with the content of my paper (and the expected level of difficulty for reading the paper anyway).</p>
+<h3>Part I: Category Theory</h3>
+<p>My project started as an attempt to understand category theory and its uses in mathematics. At the start of almost any undergraduate mathematics education, students like me will be seeing some kind of “set theory” and how to write proofs with it. Set theory is a basic tool for essentially all mathematicians to form and tackle problems: how many <em>elements </em>are there in a <em>set</em>? If I know two sets A and B, how can one construct <em>functions</em> from A to B? Are they <em>injective and/or surjective</em> (or both, i.e. <em>bijective</em>)? Working with those should be very familiar.</p>
+<p>However, as one studies more abstract algebra (a branch of mathematics, it is not the “Algebra” you might be expecting in high school!), one will meet way more structure and their “structure-preserving transformations”. For example:</p>
+<ul>
+<li>Groups and Group isomorphisms/homomorphisms,</li>
+<li>Vector spaces and Isomorphic Vector spaces / linear maps,</li>
+<li>Rings with Ring isomorphism/homomorphism,</li>
+</ul>
+<p>(My non-math friends probably will lose it here so early into the passage, I am sorry…) It is quite a lot of definitions to go through, but you can bring one level up in abstraction in category theory!</p>
+<figure><img alt="Just a skit showing how other fellow mathematicians cannot explain what Abstract Algebra is… credits at x.com" decoding="async" loading="lazy" src="/wp-content/uploads/2024/06/image.png"/><figcaption>Just a skit showing how other fellow mathematicians cannot explain what Abstract Algebra is… credits at <a href="http://x.com">x.com</a></figcaption></figure>
+<p>In category theory, we can start developing it once we define a set (or a “class”, to be precise) of <em>“objects”</em> and <em>“morphisms”</em> satisfying certain conditions. For instance, immediately we have the following categories:</p>
+<figure><img alt="This is directly taken from my report ." decoding="async" loading="lazy" src="/wp-content/uploads/2024/06/image-1.png"/><figcaption>This is directly taken from <a href="/wp-content/uploads/2024/05/lamr_project_report.pdf">my report</a>.</figcaption></figure>
+<p>You get the idea. I also tried to present all the basics in the first chapter of my paper. Now I need to try to bring the non-math friends back.</p>
+<p>Category Theory enriches (hopefully this is the right word) set theory to allow us to discuss more possibilities in mathematics. I probably cannot say it better than <a href="https://www.youtube.com/watch?v=yAi3XWCBkDo&amp;ab_channel=OliverLugg">Oliver Lugg’s video</a>. But in my paper, I also mentioned two working principles, which make category theory very versatile.</p>
+<ol>
+<li>The idea of <em>duality. </em>Morphisms (or <em>maps</em>) in a category have a source (say A) and a target (say B), but consider maps from A to B, since we just “call them” A and B, the theory makes no difference if we consider maps from B to A. That is, we “say” the “target” is where the maps start and the “source” is where the maps end. We just “say” it is so, so we would not expect the idea would be vastly different. For math people again, this actually tackles a lot of annoying bookkeeping in topics such as dual spaces, left-right module differences, etc.</li>
+<li>The idea of universal properties. Sometimes, one might be presented with a mathematical object and don’t know what can be done with it. A good idea is to look at maps<em> coming out / going into</em> this object (and by duality concerns, any of the two would be fine). It turns out that this practice is enough for all practical purposes (the jargon is you can always get the object “up to isomorphism”). An example for the math people again: given two (finite-dimensional) vector spaces V and W, how could we understand the direct sum V+W? Well, one could say if I give you any extra vector space T, and two linear maps f: V to T, and g: W to T, then I can have a “natural” map h: V + W to T (what do you think it is?), this map completely tells me how V+W “behaves”. In fact, the key lemma in Category theory, the Yoneda Lemma, heavily generalizes this observation.</li>
+</ol>
+<p>These two concepts made up my second chapter. The third chapter was quite technical, and as I am writing this blog post I feel like it is too inaccessible for the laymen and boring for the mathematicians, so I will not mention it too much. But it involves looking at <em>adjoint functors</em>, which is a way to transport objects between two structurally different categories. The whole first part leads to a nice theorem of “adjoint preserves limits”, but I have no time or space to explain what these words mean.</p>
+<h3>Part II: Category Theory in Algebras</h3>
+<p>Anyway, the second part puts category theory into applications in abstract algebra. In particular, I am interested in thinking about modules over non-commutative algebras. Again, the terms “modules”, “non-commutative”, and even “algebra” this time are all technical terms. I don’t know a good way to present it without getting too deep into rewriting the paper, so I would just share my common response when someone asks me what this “algebra”  thing is about. For students currently doing their Masters in pure mathematics, you might want to hear that my work also includes some homological algebra.</p>
+<p>When I told my friends I was writing a paper, some of them would ask me what is it about.  I usually answer “abstract algebra”, and upon further questions, the only words that I manage to spurt out are probably “It is very abstract, I think about how things add and multiply”.</p>
+<p>And that’s kinda about it. For the more interested readers, I worked with a special type of algebras called “quiver algebras”, where all the information can be retrieved by drawing a finite directed graph, possibly with multiple edges between two vertices and loops. I was also interested in modules over those algebras. As representation theorists are concerned, the first question is probably to ask for a decomposition of the regular module into indecomposable modules, and there is a nice one consisting of only projective modules.</p>
+<p>Back to the normal English language, one thing that was quite unexpected in this project was that I worked a lot with pictures. This is to give a good visualization of different objects. This is also a common theme in both Part I and II of the paper.</p>
+<figure><img alt="An unused bit of my paper, perhaps as a reward for reading this far…?" decoding="async" loading="lazy" src="/wp-content/uploads/2024/06/image-2.png"/><figcaption>An unused bit of my paper, perhaps as a reward for reading this far…?</figcaption></figure>
+<p>In the final chapter, I produced a new calculation, verifying an algebra satisfies a particular condition (injective generation). Combined with <a href="https://arxiv.org/abs/1804.09801">my supervisor’s work</a>, this in turn gives an example where a famous conjecture (the “Finitistic Dimension Conjecture”) holds for that algebra.</p>
+<h3>The Next Post</h3>
+<p>So that is the math part! Do let me know if you read any part of my paper and have any comments! The next post will be about recounting the writing process, and my experience in battling emotions that arise from it (so it will be much more personal), stay tuned!</p>

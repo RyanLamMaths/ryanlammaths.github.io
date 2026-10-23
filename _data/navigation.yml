@@ -1,0 +1,15 @@
+main:
+- title: About Me
+  url: /about/
+- title: Research
+  url: /research/
+- title: Notes
+  url: /notes/
+- title: Teaching
+  url: /teaching/
+- title: Blog
+  url: /blog/
+- title: CV
+  url: https://drive.google.com/file/d/1o50RWoKjlJjBReIIGB7RKVHqKfzxu3w-/view?usp=drive_link
+- title: Contact
+  url: /contact/

@@ -1,0 +1,10 @@
+---
+title: research
+permalink: /tag/research/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.tags["research"] %}
+{% for post in entries %}{% include archive-single.html %}{% endfor %}

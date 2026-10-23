@@ -1,0 +1,210 @@
+{
+  "original_pages": 8,
+  "original_posts": 24,
+  "original_comments_and_pingbacks": 10,
+  "copied_assets": 73,
+  "rendered_html_files": 75,
+  "internal_urls_checked": 206,
+  "math_expressions_checked": 72,
+  "missing_links": [],
+  "missing_anchors": [],
+  "missing_text": [],
+  "asset_hash_failures": [],
+  "sitemap_routes_not_migrated": [],
+  "content_coverage": [
+    {
+      "id": 637,
+      "route": "/2024/09/27/talk-announcement-bjacs/",
+      "text_fragments_checked": 10,
+      "present": true
+    },
+    {
+      "id": 548,
+      "route": "/2024/09/07/graduated-and-next-steps-phd/",
+      "text_fragments_checked": 24,
+      "present": true
+    },
+    {
+      "id": 546,
+      "route": "/2024/06/06/my-masters-project-the-maths/",
+      "text_fragments_checked": 61,
+      "present": true
+    },
+    {
+      "id": 544,
+      "route": "/2024/06/01/some-website-updates/",
+      "text_fragments_checked": 9,
+      "present": true
+    },
+    {
+      "id": 413,
+      "route": "/2023/12/14/summer-research-new-preprint/",
+      "text_fragments_checked": 36,
+      "present": true
+    },
+    {
+      "id": 488,
+      "route": "/2023/11/01/quick-talk-announcement/",
+      "text_fragments_checked": 8,
+      "present": true
+    },
+    {
+      "id": 481,
+      "route": "/2023/10/24/coding-club-is-back/",
+      "text_fragments_checked": 16,
+      "present": true
+    },
+    {
+      "id": 470,
+      "route": "/2023/10/15/internship-event-tomorrow/",
+      "text_fragments_checked": 8,
+      "present": true
+    },
+    {
+      "id": 415,
+      "route": "/2023/09/29/summer-and-career-updates/",
+      "text_fragments_checked": 28,
+      "present": true
+    },
+    {
+      "id": 354,
+      "route": "/2023/09/27/a-few-words-on-study-abroad/",
+      "text_fragments_checked": 28,
+      "present": true
+    },
+    {
+      "id": 425,
+      "route": "/teaching/",
+      "text_fragments_checked": 9,
+      "present": true
+    },
+    {
+      "id": 389,
+      "route": "/2023/05/10/a-draft-of-an-expository-paper-announcement/",
+      "text_fragments_checked": 10,
+      "present": true
+    },
+    {
+      "id": 372,
+      "route": "/2023/05/02/course-presentation/",
+      "text_fragments_checked": 4,
+      "present": true
+    },
+    {
+      "id": 296,
+      "route": "/research/",
+      "text_fragments_checked": 57,
+      "present": true
+    },
+    {
+      "id": 336,
+      "route": "/2023/02/17/talk-announcement/",
+      "text_fragments_checked": 7,
+      "present": true
+    },
+    {
+      "id": 320,
+      "route": "/notes/",
+      "text_fragments_checked": 53,
+      "present": true
+    },
+    {
+      "id": 285,
+      "route": "/2023/02/06/elliptic-surfaces-and-picard-fuchs-equation/",
+      "text_fragments_checked": 6,
+      "present": true
+    },
+    {
+      "id": 247,
+      "route": "/2022/12/09/shock-and-adapting-again/",
+      "text_fragments_checked": 23,
+      "present": true
+    },
+    {
+      "id": 175,
+      "route": "/easya-comp/",
+      "text_fragments_checked": 63,
+      "present": true
+    },
+    {
+      "id": 160,
+      "route": "/2021/11/09/time-management-and-baking/",
+      "text_fragments_checked": 6,
+      "present": true
+    },
+    {
+      "id": 152,
+      "route": "/2021/11/02/mat-tmua-2021-tips-and-advice/",
+      "text_fragments_checked": 40,
+      "present": true
+    },
+    {
+      "id": 141,
+      "route": "/2021/09/01/course-review-responsive-web-design-on-freecodecamp-org/",
+      "text_fragments_checked": 13,
+      "present": true
+    },
+    {
+      "id": 133,
+      "route": "/2021/08/03/course-review-introduction-to-complex-analysis-on-coursera/",
+      "text_fragments_checked": 10,
+      "present": true
+    },
+    {
+      "id": 128,
+      "route": "/2021/05/30/mathematics-competitions-in-high-school/",
+      "text_fragments_checked": 23,
+      "present": true
+    },
+    {
+      "id": 118,
+      "route": "/2021/05/23/being-a-course-representative/",
+      "text_fragments_checked": 12,
+      "present": true
+    },
+    {
+      "id": 74,
+      "route": "/2021/05/22/function-that-is-continuous-but-nowhere-differentiable/",
+      "text_fragments_checked": 100,
+      "present": true
+    },
+    {
+      "id": 60,
+      "route": "/2021/05/21/my-experience-epymt/",
+      "text_fragments_checked": 8,
+      "present": true
+    },
+    {
+      "id": 5,
+      "route": "/",
+      "text_fragments_checked": 8,
+      "present": true
+    },
+    {
+      "id": 6,
+      "route": "/blog/",
+      "text_fragments_checked": 2,
+      "present": true
+    },
+    {
+      "id": 7,
+      "route": "/contact/",
+      "text_fragments_checked": 8,
+      "present": true
+    },
+    {
+      "id": 8,
+      "route": "/about/",
+      "text_fragments_checked": 14,
+      "present": true
+    },
+    {
+      "id": 11,
+      "route": "/2021/05/20/first-post/",
+      "text_fragments_checked": 8,
+      "present": true
+    }
+  ],
+  "known_source_issue": "The obsolete WordPress CV file /wp-content/uploads/2024/05/cv_ryan_lam.pdf returns 404. Its link now targets the current Google Drive CV URL already published on the source site.",
+  "browser_qa": "Not available in this environment; generated HTML, links, content, source assets and stylesheet compilation checked."
+}

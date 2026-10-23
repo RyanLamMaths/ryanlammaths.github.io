@@ -1,0 +1,10 @@
+---
+title: Series
+permalink: /tag/series/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.tags["Series"] %}
+{% for post in entries %}{% include archive-single.html %}{% endfor %}

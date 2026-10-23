@@ -1,0 +1,10 @@
+---
+title: research
+permalink: /category/research/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.categories["research"] %}
+{% for post in entries %}{% include archive-single.html %}{% endfor %}

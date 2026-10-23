@@ -1,0 +1,10 @@
+---
+title: mathematics
+permalink: /tag/mathematics/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.tags["mathematics"] %}
+{% for post in entries %}{% include archive-single.html %}{% endfor %}

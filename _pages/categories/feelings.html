@@ -1,0 +1,10 @@
+---
+title: feelings
+permalink: /category/feelings/
+layout: archive
+author_profile: true
+---
+
+{% include base_path %}
+{% assign entries = site.categories["feelings"] %}
+{% for post in entries %}{% include archive-single.html %}{% endfor %}
